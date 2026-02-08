@@ -24,3 +24,16 @@ Replace placeholders with client approved values before use.
 1 docs includes the SOP and Quick Start
 2 configuration includes copy ready text for the Boei setup
 3 prompts includes standard tests and FAQ batch guidance
+
+Quick start
+Read the SOP in the Release assets
+Use the Quick Start Testing Card after every change
+
+Placeholders to replace
+[ORG_NAME]
+[HOTLINE_EN]
+[HOTLINE_ES]
+[OFFICE_PHONE]
+[OFFICE_HOURS]
+[REPORTING_LINE]
+[REPORTING_LINE_TDD]
